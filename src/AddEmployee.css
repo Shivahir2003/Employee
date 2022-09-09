@@ -1,0 +1,23 @@
+.container{
+    margin-top: 25px;
+    padding: 0;
+    margin-bottom: 86px;
+}
+td{
+    color: whitesmoke;
+    font-family:  monospace;
+    padding: 20px;
+    padding-top: 13px;
+    
+}
+input{
+    background-color: rgba(0, 0, 0, 0.082);
+    color: aliceblue;
+    
+}
+.button-form{
+    background-color: cornflowerblue;
+    font-size: 1.2rem;
+    color: white;
+    
+}
