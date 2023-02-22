@@ -5,20 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: #1e3d58;
-  background-image: radial-gradient(#212529 1px, transparent 1px);
-background-size: 31px 31px; */
 
-/* background-color: #1c364d;
-opacity: 1;
-background-image: radial-gradient(circle at center center, #b3b3c8, #1c364d), repeating-radial-gradient(circle at center center, #b3b3c8, #b3b3c8, 26px, transparent 52px, transparent 26px);
-background-blend-mode: multiply; */
 
-background-color: #1e3d58;
-opacity: 1;
-background-image:  radial-gradient(#0c0c0d 0.9500000000000001px, transparent 0.9500000000000001px), radial-gradient(#0c0c0d 0.9500000000000001px, #1e3d58 0.9500000000000001px);
-background-size: 38px 38px;
-background-position: 0 0,19px 19px;
+		/* background-color: #1e3d58;
+		background-image: radial-gradient(#212529 1px, transparent 1px);
+		background-size: 31px 31px; */
+
+		/* background-color: #1c364d;
+		opacity: 1;
+		background-image: radial-gradient(circle at center center, #b3b3c8, #1c364d), repeating-radial-gradient(circle at center center, #b3b3c8, #b3b3c8, 26px, transparent 52px, transparent 26px);
+		background-blend-mode: multiply; */
+
+		background-color: #1e3d58;
+		opacity: 1;
+		background-image: radial-gradient(#000000 1.4000000000000001px, #1e3d58 1.4000000000000001px);
+		background-size: 28px 28px;
+
 
 
 

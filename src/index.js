@@ -21,8 +21,8 @@ root.render(
   <>
   <BrowserRouter>
   <Routes>
-    <Route path="/" element={<Layout />}>
-    <Route path="/Home" element={<Home />}></Route>
+    <Route path='/' element={<Layout />}>
+    <Route path='/Home' element=  {<Home />}></Route>
     <Route path="/Home/:id" element={<EmployeeDetail />}></Route>
     
     <Route path="/AddEmployee" element={<AddEmployee />}></Route>
