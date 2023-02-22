@@ -32,3 +32,7 @@
     font-size: 40px;
     
 }
+btn:hover{
+    text-decoration: underline;
+    transition: .5s ease-in;
+}
